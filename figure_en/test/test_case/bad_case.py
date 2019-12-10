@@ -1,0 +1,3 @@
+'includes a differently configured first side piece 341 and second side piece 342'
+'associated VOQ-module 100. Each VOQ-module 100 consists of a flow-controller 102, a flow-demultiplexer 104, a set of flow-VOQs 106, a flow-server 108, and an optional controller 105, which may '
+'receive a bounded NSLL. The input port 12 consists of the routing module 20, the VOQ-demultiplexer 15, the VOQs 16, and the VOQ-server 18, which were shown in FIG. 1A. Each VOQ 16 has an '

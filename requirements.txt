@@ -1,0 +1,8 @@
+modelhub
+requests
+sklearn_crfsuite
+joblib
+intervaltree
+jupyter
+pyyaml
+spacy==1.10.1
